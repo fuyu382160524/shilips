@@ -22,3 +22,15 @@
     top: 0;
     left: 330px;
 }
+.bottomBOX{
+    background: rgb(14, 89, 193);
+    color: #fff;
+    padding: 40px 0px 0px 130px;
+}
+.bottomBOX li{
+    margin: 10px;
+}
+.bottominfor{
+    background: cyan;
+    height: 50px;
+}
