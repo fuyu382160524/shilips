@@ -32,5 +32,25 @@
 }
 .bottominfor{
     background: cyan;
-    height: 50px;
+    color: #fff;
+}
+.flx{
+    display: flex;
+    line-height: 100px;
+}
+.flx1{
+    flex: 1;
+}
+.bottominfor .flx{
+    margin: 70px 0;
+}
+.flx input{
+    line-height: 20px;
+}
+.container-xs{
+    line-height: 70px;
+    text-align: center;
+}
+.container-xs input{
+    line-height: 20px;
 }
